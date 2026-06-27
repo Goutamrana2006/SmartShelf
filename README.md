@@ -241,7 +241,7 @@ This project helped in learning:
 
 **Goutam Rana**
 
-* 🎓 B.Tech Student
+* 🎓 BCA Student
 * 💻 Full Stack Web Development Enthusiast
 * 🤖 Interested in AI & Software Development
 
